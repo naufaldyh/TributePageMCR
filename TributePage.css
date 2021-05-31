@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Mate+SC&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 30px;
+  background-color: darkslategray
+  font-family: "Mate SC", serif;
+  padding: 30px;
+  font-size: 20px;
+}
+
+img {
+  height: 35px;
+}
+
+.logo {
+  color: white;
+  text-decoration: none;
+  margin: 0;
+}
+div .sublogo {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  text-align: end;
+}
+
+
+
+section h1 {
+  color: white;
+  font-family: "Mate SC", serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+a #tribute-link {
+    color: white;
+    font-family: "Mate SC", serif;
+    font-size: 20px;
+    text-align: center;
+}
+p {
+    color: white;
+    font-family: "Mate SC", serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+#image {
+  width: 70%;
+  height: auto;
+  display: block;
+  margin: auto;
+  max-width: 80%;
+  
+}
